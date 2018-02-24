@@ -34,7 +34,22 @@ nav ul li a{
   color: white;
 }
 
-.footer {
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+main{
+  margin-top: 25px;
+}
+
+p{
+  color: black;
+}
+
+footer {
   position: fixed;
   right: 0;
   bottom: 0;
