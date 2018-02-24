@@ -8,6 +8,11 @@ body{
   float: left;
 }
 
+iframe{
+  float: left;
+  margin: 50px;
+}
+
 .card{
 float: left;
 padding: 20px;
