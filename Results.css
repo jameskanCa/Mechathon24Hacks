@@ -5,11 +5,11 @@ body{
 }
 
 .container-fluid{
-  float: right;
+  float: left;
 }
 
 .card{
-float: right;
+float: left;
 padding: 20px;
 margin: 30px;
 }

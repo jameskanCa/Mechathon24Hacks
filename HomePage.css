@@ -10,11 +10,9 @@ p{
   font-style: calibri;
 }
 
-
-
 header h1{
-  float: left;
-  color: white;
+  float: right;
+  color: black;
   margin: 1%;
   display: inline;
 }
@@ -34,8 +32,4 @@ header h1{
 nav ul li a{
   padding: 10px;
   color: white;
-}
-
-nav ul li a:hover {
-    text-decoration: underline;
 }

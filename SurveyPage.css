@@ -44,3 +44,7 @@ nav ul li a:hover {
 form{
   align-items: center;
 }
+
+button{
+  text-decoration-color: red;
+}
