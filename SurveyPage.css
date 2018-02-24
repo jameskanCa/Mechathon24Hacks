@@ -1,0 +1,46 @@
+body{
+  align-items: center;
+  background-image: url("background_image_template1.jpg");;
+  margin: 0;
+}
+
+p{
+  text-align: center;
+  font-size: 100%;
+  font-style: oblique;
+  font-style: calibri;
+}
+
+
+
+header h1{
+  float: left;
+  color: white;
+  margin: 1%;
+  display: inline;
+}
+
+ nav ul{
+  margin: 0;
+  display: inline;
+}
+
+ nav ul li{
+  list-style-type: none;
+  display: inline-block;
+  color: white;
+  margin: 10px;
+}
+
+nav ul li a{
+  padding: 10px;
+  color: white;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+form{
+  align-items: center;
+}
