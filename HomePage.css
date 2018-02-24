@@ -10,8 +10,8 @@ p{
   font-style: calibri;
 }
 
-header h1{
-  float: right;
+h1{
+  float: none;
   color: black;
   margin: 1%;
   display: inline;
